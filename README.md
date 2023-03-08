@@ -12,6 +12,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 > You can work around this by setting a `NODE_OPTIONS=--openssl-legacy-provider` environment variable before starting the dev server.
 > Details: https://github.com/webpack/webpack/issues/14532#issuecomment-947012063
 
+> **Raunak's Note**: This branch follows the offical redux tutorial and all the steps are recreated for practice.
+
 ## Available Scripts
 
 In the project directory, you can run:
